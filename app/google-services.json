@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291864809671",
+    "firebase_url": "https://raven-earn.firebaseio.com",
+    "project_id": "raven-earn",
+    "storage_bucket": "raven-earn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291864809671:android:48c93b6392e31b05",
+        "android_client_info": {
+          "package_name": "online.propaans.ravenearn.ravenearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291864809671-67sfcsv7fc5ftn83t9rq91m0dl9sotep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.propaans.ravenearn.ravenearn",
+            "certificate_hash": "2bdb1a687e7ef889d00b535cc1f0ad626ac83452"
+          }
+        },
+        {
+          "client_id": "291864809671-cpunljp1m51m45fbglq2n46omuq5rini.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmMJuKop9CMJ7HgDwMidWM3mgVh4CmNDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291864809671-cpunljp1m51m45fbglq2n46omuq5rini.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
